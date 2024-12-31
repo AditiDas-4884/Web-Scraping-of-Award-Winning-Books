@@ -32,8 +32,3 @@ The scraped dataset includes the following attributes:
 - Analysis of discount patterns for award-winning books.  
 - Price distribution among books from different authors.  
 - Comparisons of MRP vs. current price.  
-
-## How to Use This Project  
-1. Clone the repository:  
-   ```bash  
-   git clone https://github.com/your-username/web-scraping-award-winning-books.git  
